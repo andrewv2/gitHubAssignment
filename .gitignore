@@ -1,0 +1,18 @@
+#ignore everything
+*
+
+#unignore what we want to track
+!.gitignore
+
+!*images/
+!*css/
+!*js/
+
+!*.png
+!*.jpg
+!*.gif
+!*.ico
+
+!*.html
+!*.css
+!*.js
